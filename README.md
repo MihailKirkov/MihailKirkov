@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MihailKirkov;
 - 👀 I’m interested in Software Development;
+- 🔨 Particularly skilled in React;
 - 🌱 I’m currently an apprenticeship, working with Typescript React & PHP;
 - 💞️ I’m looking to collaborate on any projects related to softwares and websites
 - 📫 How to reach me:
