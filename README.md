@@ -4,7 +4,7 @@ Full-stack developer - React/Next.js + TypeScript on the front, Node.js and PHP 
 Two and a half years of production work building and running ERM systems for a company in Vienna.
 
 Right now I'm most interested in **AI integration that actually ships and makes an impact**:
-LLM scoring with real cost controls, tool use over live data, MCP servers, RAG integrations.
+LLM scoring with real cost controls, tool use over live data, MCP servers, RAG.
 
 **EU citizen · Bulgarian**
 
