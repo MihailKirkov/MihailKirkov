@@ -6,6 +6,9 @@ Two and a half years of production work building and running ERM systems for a c
 Right now I'm most interested in **AI integration that actually ships and makes an impact**:
 LLM scoring with real cost controls, tool use over live data, MCP servers, RAG.
 
+**Job Command Center** — ingests ~10 job/ATS APIs daily, AI-scores each role against your CV,
+exposes the whole pipeline over MCP. [Live demo, no signup](https://ignis-job-application.vercel.app/demo)
+
 **EU citizen · Bulgarian**
 
 Relocating to Eindhoven, NL in September 2026.
