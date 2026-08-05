@@ -17,6 +17,5 @@ Open to full-stack roles in the Brainport region — on-site or hybrid.
 - Portfolio → https://portfolio-mihail.vercel.app/
 - LinkedIn → https://www.linkedin.com/in/mihail-kirkov-b65b36262/
 - Email → mihailkirkov04@gmail.com
-- WhatsApp → +359882395117
 
 **Stack:** TypeScript · React · Next.js · Node.js · PHP · Python · Supabase/Postgres · Docker · Anthropic & OpenAI APIs
